@@ -1,5 +1,5 @@
-🤖 hi i'm a computer engineering student. 
-my favorite filetypes are '.aep', '.js', '.ai', '.cs', and '.cpp'
+🤖 hello i like making [cool looking things](https://jadden.xyz/projects.html) 
+my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp`
 
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
