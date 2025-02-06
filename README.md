@@ -1,5 +1,11 @@
-hello i like making [cool looking things](https://jadden.xyz/projects.html) 
-and my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp` 🤖 
+hello. i'm a computer engineering student @ purdue university
+
+i like making [cool looking things](https://jadden.xyz/projects.html) 
+
+
+my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp` 🤖 
+
+i'm interested in visual computing & motion design
 
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
