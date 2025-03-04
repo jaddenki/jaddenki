@@ -1,4 +1,6 @@
-hello. i'm a computer engineering student @ purdue university
+hello. i'm a computer engineering student @ [purdue university](https://www.purdue.edu/)
+
+programmer & artist at the [envision center](https://www.rcac.purdue.edu/envision)
 
 i like making [cool looking things](https://jadden.xyz/projects.html) 
 
