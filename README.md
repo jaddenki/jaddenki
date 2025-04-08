@@ -2,9 +2,6 @@ hello. i'm a computer engineering student @ [purdue university](https://www.purd
 
 programmer & artist at the [envision center](https://www.rcac.purdue.edu/envision)
 
-i like making [cool looking things](https://jadden.xyz/projects.html) 
-
-
 my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp` 🤖 
 
 i'm interested in visual computing & motion design
