@@ -1,10 +1,10 @@
 hello. i'm a computer engineering student @ [purdue university](https://www.purdue.edu/)
 
-programmer & artist at the [envision center](https://www.rcac.purdue.edu/envision)
+programmer x artist at the [envision center](https://www.rcac.purdue.edu/envision)
 
 my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp` 🤖 
 
-i'm interested in visual computing & motion design
+i'm interested in visual computing, motion design, and making things that move minds & pixels 🎥⚙️
 
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
