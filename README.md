@@ -1,8 +1,4 @@
-🤖 hello. i'm a computer engineering student @ [purdue university](https://www.purdue.edu/)
-
-my favorite filetypes are `.aep`, `.js`, `.ai`, `.cs`, and `.cpp`  
-
-i like making things that move minds & pixels 
+hello. i'm a computer engineering student @ [purdue university](https://www.purdue.edu/)
 
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
