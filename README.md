@@ -1,4 +1,4 @@
-hello. i'm a computer engineering student @ [purdue university](https://www.purdue.edu/)
+hello. i'm a computer engineering student @ [purdue](https://www.purdue.edu/)
 
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
