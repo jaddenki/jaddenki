@@ -1,6 +1,6 @@
 hi, i'm jadden.
 
-i'm a computer engineering student @ [purdue](https://www.purdue.edu/). currently, i'm doing research under [anastasia ostrowski](https://www.akostrowski.com/) and [caue borlina](https://www.caueborlina.com/) at the [pmag lab](https://www.caueborlina.com/purdue-magnetics-lab), working on xr labs for the meta quest 3 and apple vision pro for live stem classes at the [envision center](https://envision.center), and making fun [games](https://store.steampowered.com/app/3852520/Spread_The_Love/) with my friends. i also lead comms for [purdue hackers](https://purduehackers.com)!
+i'm a computer engineering student @ [purdue](https://www.purdue.edu/). currently, i'm doing research under [anastasia ostrowski](https://www.akostrowski.com/) and [caue borlina](https://www.caueborlina.com/) at the [pmag lab](https://www.caueborlina.com/purdue-magnetics-lab), working on xr labs for the meta quest 3 and apple vision pro for live stem classes at the [envision center](https://envision.center), and making fun [games](https://store.steampowered.com/app/3852520/Spread_The_Love/) with my [friends](https://jam.ms). i also lead comms for [purdue hackers](https://purduehackers.com)!
 
 check out my [website](https://jadden.xyz) for more info about me.
 
