@@ -1,6 +1,7 @@
 hi, i'm jadden.
 
-i'm a computer engineering student @ [purdue](https://www.purdue.edu/), concentrating in computer systems and software engineering. [talk to me](https://cal.com/jadden/30min) about well-designed software and video games
+i'm a computer engineering student @ [purdue](https://www.purdue.edu/), concentrating in computer systems and software engineering. 
+[talk to me](https://cal.com/jadden/30min) about well-designed software and video games :)
 
 check out my [website](https://jadden.xyz) for more info about me.
 
