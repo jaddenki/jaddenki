@@ -11,7 +11,9 @@ you may know me as a [motion designer](https://www.are.na/jadden-picardal/jadden
 <!-- <p align="left">
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
 </p> -->
-  <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
+  <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/site-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@okigarakii" target="_blank"><img src="https://img.shields.io/badge/tiktok-@okigarakii-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
+  
 
 
 <p align="left">
