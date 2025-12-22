@@ -6,7 +6,7 @@ i'm a computer engineering student & software engineer @ [purdue](https://www.pu
 you may know me as a [motion designer](https://www.are.na/jadden-picardal/jadden-picardal-4h2pfujye8i) and [game dev](https://jam.ms)
 
 
-[happy to chat](https://cal.com/jadden/30min)! ₍ᐢ. .ᐢ₎ 
+[happy to chat](https://cal.com/jadden)! ₍ᐢ. .ᐢ₎ 
 
 <!-- <p align="left">
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
