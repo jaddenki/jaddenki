@@ -1,4 +1,6 @@
 
+  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="120px" 
+    />
 
 ```
 hi, i'm jadden picardal
@@ -11,17 +13,12 @@ i'm a computer engineer & motion designer making tech fun
 
 <!-- 
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
-</p> -->
+</p> 
 
   <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/site-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@okigarakii" target="_blank"><img src="https://img.shields.io/badge/tiktok-@okigarakii-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
 
-  <p align="left">
-  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="80" 
-    style="margin-right: 20px; margin-bottom: 10px;"
-    />
-    </p> 
-
+-->
 
 
 <!--
