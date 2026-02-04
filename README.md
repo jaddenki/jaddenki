@@ -1,22 +1,29 @@
-hi, i'm jadden
-
-i'm a computer engineering student & software engineer @ [purdue](https://www.purdue.edu/)
 
 
-you may know me as a [motion designer](https://www.are.na/jadden-picardal/jadden-picardal-4h2pfujye8i) and [game dev](https://jam.ms)
+```
+hi, i'm jadden picardal
+
+i'm a computer engineer & motion designer making tech fun
+
+> currently making experimental work at lowercase.club and games at jam.ms
+```
 
 
-<!-- <p align="left">
+<!-- 
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
 </p> -->
+
   <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/site-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@okigarakii" target="_blank"><img src="https://img.shields.io/badge/tiktok-@okigarakii-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
-  
+
+  <p align="left">
+  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="80" 
+    style="margin-right: 20px; margin-bottom: 10px;"
+    />
+    </p> 
 
 
-<p align="left">
-  <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="80" />
-</p>
+
 <!--
 **jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
