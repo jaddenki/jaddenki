@@ -5,7 +5,7 @@
 ```
 hi, i'm jadden picardal
 
-i'm a computer engineer & motion designer making tech fun
+i'm a programmer & designer
 
 > currently making experimental work at lowercase.club and games at jam.ms
 ```
