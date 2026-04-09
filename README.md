@@ -1,13 +1,11 @@
 
-  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="120px" 
+  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="100px" 
     />
 
 ```
-hi, i'm jadden picardal
+hi, i'm jadden picardal. i like to make things move
 
-i'm a programmer & designer
-
-> currently making experimental work at lowercase.club and games at jam.ms
+> currently making experimental work at lowercase.club
 ```
 
 
@@ -17,6 +15,7 @@ i'm a programmer & designer
 
   <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/site-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@okigarakii" target="_blank"><img src="https://img.shields.io/badge/tiktok-@okigarakii-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
+  
 
 -->
 
