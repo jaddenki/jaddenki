@@ -5,7 +5,7 @@
 ```
 hi, i'm jadden picardal. i like to make things move
 
-> currently making experimental work at lowercase.club
+> currently a design engineer @ infisical
 ```
 
 
