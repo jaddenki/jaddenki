@@ -2,13 +2,13 @@
   <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="100px" 
     />
 
-<!--
+
 ```
 hi, i'm jadden picardal. i like to make things move
 
-> currently a design engineer @ infisical
+> i like video games, movies, and designing
 ```
--->
+
 
 
 <!-- 
