@@ -6,7 +6,7 @@
 ```
 hi, i'm jadden picardal. i like to make things move
 
-> i like video games, movies, and designing
+> i like video games, movies, and design
 ```
 
 
