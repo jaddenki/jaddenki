@@ -8,7 +8,7 @@ hi, i'm jadden picardal
 
 i like video games, movies, and design
 
-currently i'm design engineer @ [Infisical](https://infisical.com)
+currently i'm a design engineer @ [Infisical](https://infisical.com)
 
 
 
