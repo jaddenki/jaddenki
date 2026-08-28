@@ -3,7 +3,7 @@
     />
 
 
-
+<!-- 
 hi, i'm jadden picardal
 
 i like video games, movies, and design
@@ -13,7 +13,7 @@ currently i'm a design engineer @ [Infisical](https://infisical.com)
 
 
 
-<!-- 
+
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
 </p> 
 
