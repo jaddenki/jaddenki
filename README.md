@@ -6,7 +6,7 @@
   <summary align="center">hi, i'm jadden</summary>
   <hr align="center">
 
-i'm a design engineer @ [infisical](https://infisical.com) & motion designer focused on making bold & experimental work to elevate developer tools. other current endeavors are finishing up my bachelor's in computer engineering @ purdue & shipping games and software for startups with [jamms](https://jam.ms/)
+i'm a design engineer @ [infisical](https://infisical.com) & motion designer focused on making bold & experimental work to elevate developer tools. other endeavors are finishing my bachelor's in computer engineering @ purdue & shipping games and software for startups @ [jamms](https://jam.ms/)
 
 <p align="center">
   <a href="https://jaddens.page/"><img src="https://img.shields.io/badge/see%20my%20work-111111?style=flat-square" /></a>
