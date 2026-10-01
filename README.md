@@ -1,40 +1,19 @@
+<p align="center">
+  <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="100px" />
+</p>
 
-  <img align="left" src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="100px" 
-    />
+<details>
+  <summary align="center">hi, i'm jadden</summary>
+  <hr align="center">
 
+i'm a design engineer @ [infisical](https://infisical.com) & motion designer focused on making bold & experimental work to elevate developer tools. other current endeavors are finishing up my bachelor's in computer engineering @ purdue & shipping games and software for startups with [jamms](https://jam.ms/)
 
-<!-- 
-hi, i'm jadden picardal
+<p align="center">
+  <a href="https://jaddens.page/"><img src="https://img.shields.io/badge/see%20my%20work-111111?style=flat-square" /></a>
+  <a href="https://jam.ms/"><img src="https://img.shields.io/badge/my%20product%20studio-111111?style=flat-square" /></a>
+  <a href="https://www.are.na/jadden-picardal"><img src="https://img.shields.io/badge/i%20also%20use%20are.na%20lol-111111?style=flat-square" /></a>
+</p>
+  </p>
 
-i like video games, movies, and design
-
-currently i'm a design engineer @ [Infisical](https://infisical.com)
-
-
-
-
-
-  <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem-busted.gif" width="80" />
-</p> 
-
-  <a href="https://jadden.xyz" target="_blank"><img src="https://img.shields.io/badge/site-jadden.xyz-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@okigarakii" target="_blank"><img src="https://img.shields.io/badge/tiktok-@okigarakii-fcfcfc?style=flat&logo=windowsterminal&logoColor=white" /></a>
   
-
--->
-
-
-<!--
-**jaddenki/jaddenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
