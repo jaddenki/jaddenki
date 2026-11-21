@@ -2,7 +2,7 @@
   <img src="https://projectpokemon.org/images/shiny-sprite/mimikyu-totem.gif" width="100px" />
 </p>
 
-<details>
+<!-- <details>
   <summary align="center">hi, i'm jadden</summary>
   <hr align="center">
 
@@ -16,4 +16,4 @@ i'm a design engineer @ [infisical](https://infisical.com) & motion designer foc
   </p>
 
   
-</details>
+</details> -->
